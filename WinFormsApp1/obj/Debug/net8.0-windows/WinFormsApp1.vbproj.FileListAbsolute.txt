@@ -1,0 +1,449 @@
+C:\Users\DiamSona\Documents\Johnrick\DBMS\GameStorePOSInv\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Login.resources
+C:\Users\DiamSona\Documents\Johnrick\DBMS\GameStorePOSInv\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\DiamSona\Documents\Johnrick\DBMS\GameStorePOSInv\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DiamSona\Documents\Johnrick\DBMS\GameStorePOSInv\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\DiamSona\Documents\Johnrick\DBMS\GameStorePOSInv\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\DiamSona\Documents\Johnrick\DBMS\GameStorePOSInv\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\DiamSona\Documents\Johnrick\DBMS\GameStorePOSInv\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\Database\GamePOS.accdb
+C:\Users\DiamSona\Documents\Johnrick\DBMS\GameStorePOSInv\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\DiamSona\Documents\Johnrick\DBMS\GameStorePOSInv\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\DiamSona\Documents\Johnrick\DBMS\GameStorePOSInv\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\DiamSona\Documents\Johnrick\DBMS\GameStorePOSInv\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\DiamSona\Documents\Johnrick\DBMS\GameStorePOSInv\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\DiamSona\Documents\Johnrick\DBMS\GameStorePOSInv\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\DiamSona\Documents\Johnrick\DBMS\GameStorePOSInv\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\DiamSona\Documents\Johnrick\DBMS\GameStorePOSInv\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\DiamSona\Documents\Johnrick\DBMS\GameStorePOSInv\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\DiamSona\Documents\Johnrick\DBMS\GameStorePOSInv\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\DiamSona\Documents\Johnrick\DBMS\GameStorePOSInv\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\DiamSona\Documents\Johnrick\DBMS\GameStorePOSInv\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\DiamSona\Documents\Johnrick\DBMS\GameStorePOSInv\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\DiamSona\Documents\Johnrick\DBMS\GameStorePOSInv\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\DiamSona\Documents\Johnrick\DBMS\GameStorePOSInv\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DiamSona\Documents\Johnrick\DBMS\GameStorePOSInv\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\DiamSona\Documents\Johnrick\DBMS\GameStorePOSInv\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\DiamSona\Documents\Johnrick\DBMS\GameStorePOSInv\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\DiamSona\Documents\Johnrick\DBMS\GameStorePOSInv\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\DiamSona\Documents\Johnrick\DBMS\GameStorePOSInv\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\DiamSona\Documents\Johnrick\DBMS\GameStorePOSInv\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Cashier.resources
+C:\Users\DiamSona\Documents\Johnrick\DBMS\GameStorePOSInv\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.D9FEAF7E.Up2Date
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmAdmin.resources
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmCashier.resources
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Payments.resources
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Login.resources
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Resources.resources
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\Database\GamePOS.accdb
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.D9FEAF7E.Up2Date
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\Database\GamePOS.accdb
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmAdmin.resources
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmCashier.resources
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Payments.resources
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Login.resources
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Resources.resources
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.D9FEAF7E.Up2Date
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\Database\GamePOS.accdb
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmAdmin.resources
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmCashier.resources
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Payments.resources
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Login.resources
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Resources.resources
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.D9FEAF7E.Up2Date
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmProduct.resources
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmSales.resources
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem 2\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\Database\GamePOS.accdb
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem 2\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem 2\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem 2\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem 2\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem 2\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem 2\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem 2\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem 2\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem 2\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem 2\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem 2\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem 2\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem 2\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem 2\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem 2\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem 2\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmAdmin.resources
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem 2\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmCashier.resources
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem 2\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Payments.resources
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem 2\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmProduct.resources
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem 2\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmSales.resources
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem 2\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Login.resources
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem 2\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Resources.resources
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem 2\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem 2\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem 2\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem 2\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem 2\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem 2\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.D9FEAF7E.Up2Date
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem 2\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem 2\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem 2\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem 2\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem 2\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\Database\GamePOS.accdb
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmAdmin.resources
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmCashier.resources
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Payments.resources
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmProduct.resources
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmSales.resources
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Login.resources
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Resources.resources
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.D9FEAF7E.Up2Date
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\DiamSona\Downloads\GameStorePOSandInventorySystem\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\Database\GamePOS.accdb
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmAdmin.resources
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmCashier.resources
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Payments.resources
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmProduct.resources
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmSales.resources
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Login.resources
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Resources.resources
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.D9FEAF7E.Up2Date
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\Database\GamePOS.accdb
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmAdmin.resources
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmCashier.resources
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Payments.resources
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmProduct.resources
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmSales.resources
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Login.resources
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Resources.resources
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.D9FEAF7E.Up2Date
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 2\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\Database\GamePOS.accdb
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 2\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 2\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 2\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 2\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 2\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 2\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 2\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 2\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 2\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 2\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 2\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 2\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 2\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 2\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 2\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 2\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmAdmin.resources
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 2\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmCashier.resources
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 2\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Payments.resources
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 2\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmProduct.resources
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 2\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmSales.resources
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 2\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Login.resources
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 2\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Resources.resources
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 2\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 2\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 2\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 2\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 2\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 2\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.D9FEAF7E.Up2Date
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 2\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 2\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 2\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 2\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 2\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmVoid.resources
+C:\Users\DiamSona\Documents\GameStorePOSandInventorySystemWorking 4\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\Database\GamePOS.accdb
+C:\Users\DiamSona\Documents\GameStorePOSandInventorySystemWorking 4\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\DiamSona\Documents\GameStorePOSandInventorySystemWorking 4\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\DiamSona\Documents\GameStorePOSandInventorySystemWorking 4\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\DiamSona\Documents\GameStorePOSandInventorySystemWorking 4\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\DiamSona\Documents\GameStorePOSandInventorySystemWorking 4\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\DiamSona\Documents\GameStorePOSandInventorySystemWorking 4\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\DiamSona\Documents\GameStorePOSandInventorySystemWorking 4\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\DiamSona\Documents\GameStorePOSandInventorySystemWorking 4\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\DiamSona\Documents\GameStorePOSandInventorySystemWorking 4\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\DiamSona\Documents\GameStorePOSandInventorySystemWorking 4\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DiamSona\Documents\GameStorePOSandInventorySystemWorking 4\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\DiamSona\Documents\GameStorePOSandInventorySystemWorking 4\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\DiamSona\Documents\GameStorePOSandInventorySystemWorking 4\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\DiamSona\Documents\GameStorePOSandInventorySystemWorking 4\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\DiamSona\Documents\GameStorePOSandInventorySystemWorking 4\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\DiamSona\Documents\GameStorePOSandInventorySystemWorking 4\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmAdmin.resources
+C:\Users\DiamSona\Documents\GameStorePOSandInventorySystemWorking 4\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmCashier.resources
+C:\Users\DiamSona\Documents\GameStorePOSandInventorySystemWorking 4\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Payments.resources
+C:\Users\DiamSona\Documents\GameStorePOSandInventorySystemWorking 4\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmProduct.resources
+C:\Users\DiamSona\Documents\GameStorePOSandInventorySystemWorking 4\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmSales.resources
+C:\Users\DiamSona\Documents\GameStorePOSandInventorySystemWorking 4\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmVoid.resources
+C:\Users\DiamSona\Documents\GameStorePOSandInventorySystemWorking 4\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Login.resources
+C:\Users\DiamSona\Documents\GameStorePOSandInventorySystemWorking 4\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Resources.resources
+C:\Users\DiamSona\Documents\GameStorePOSandInventorySystemWorking 4\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\DiamSona\Documents\GameStorePOSandInventorySystemWorking 4\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DiamSona\Documents\GameStorePOSandInventorySystemWorking 4\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\DiamSona\Documents\GameStorePOSandInventorySystemWorking 4\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\DiamSona\Documents\GameStorePOSandInventorySystemWorking 4\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\DiamSona\Documents\GameStorePOSandInventorySystemWorking 4\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.D9FEAF7E.Up2Date
+C:\Users\DiamSona\Documents\GameStorePOSandInventorySystemWorking 4\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\DiamSona\Documents\GameStorePOSandInventorySystemWorking 4\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\DiamSona\Documents\GameStorePOSandInventorySystemWorking 4\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\DiamSona\Documents\GameStorePOSandInventorySystemWorking 4\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\DiamSona\Documents\GameStorePOSandInventorySystemWorking 4\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\DiamSona\Documents\GameStorePOSandInventorySystemWorking 4\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmDashboard.resources
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmDashboard.resources
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmReceipt.resources
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\Database\GamePOS.accdb
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmAdmin.resources
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmCashier.resources
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmDashboard.resources
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Payments.resources
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmProduct.resources
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmReceipt.resources
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmSales.resources
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmVoid.resources
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Login.resources
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Resources.resources
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.D9FEAF7E.Up2Date
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Ralph\Downloads\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\Database\GamePOS.accdb
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmAdmin.resources
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmCashier.resources
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmDashboard.resources
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Payments.resources
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmProduct.resources
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmReceipt.resources
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmSales.resources
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmVoid.resources
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Login.resources
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Resources.resources
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.D9FEAF7E.Up2Date
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Ralph\OneDrive\Documents\1Drive\OneDrive\Desktop\GameStorePOSandInventorySystemWorking 8\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\Mindoro\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmSuppliers.resources
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\Database\GamePOS.accdb
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmAdmin.resources
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmCashier.resources
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmDashboard.resources
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Payments.resources
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmProduct.resources
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmReceipt.resources
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmSales.resources
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmSuppliers.resources
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmVoid.resources
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Login.resources
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Resources.resources
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.D9FEAF7E.Up2Date
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\DiamSona\Desktop\GameStorePOSandInventorySystemWorking\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll

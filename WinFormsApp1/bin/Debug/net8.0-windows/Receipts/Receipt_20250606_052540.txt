@@ -1,0 +1,22 @@
+========== GAMEPOS STORE ==========
+Date/Time : 2025-06-06 05:25:40
+Cashier   : ***
+Pay-Mode  : Cash
+-----------------------------------
+Item                 Qty     Price    SubTot
+-----------------------------------
+Elden Ring             3  3,200.00 10,100.00
+-----------------------------------
+VAT       : 480.00
+Non-VAT   : 20.00
+TOTAL     : 10,100.00
+PAID      : 11,000.00
+CHANGE    : 900.00
+-----------------------------------
+How was your shopping experience?
+Please rate us:  ☆ ☆ ☆ ☆ ☆   (1-Poor  5-Excellent)
+
+Thank you for choosing GamePOS Store!
+We appreciate your business and hope
+to see you again soon.
+===================================

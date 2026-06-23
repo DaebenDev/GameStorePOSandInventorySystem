@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "vx7whLOaNKY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DiamSona\\Desktop\\GameStorePOSandInventorySystemWorking\\WinFormsApp1\\WinFormsApp1.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DiamSona\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.4\\system.configuration.configurationmanager.9.0.4.nupkg.sha512",
+    "C:\\Users\\DiamSona\\.nuget\\packages\\system.data.oledb\\9.0.4\\system.data.oledb.9.0.4.nupkg.sha512",
+    "C:\\Users\\DiamSona\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.4\\system.diagnostics.eventlog.9.0.4.nupkg.sha512",
+    "C:\\Users\\DiamSona\\.nuget\\packages\\system.diagnostics.performancecounter\\9.0.4\\system.diagnostics.performancecounter.9.0.4.nupkg.sha512",
+    "C:\\Users\\DiamSona\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.4\\system.security.cryptography.protecteddata.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
