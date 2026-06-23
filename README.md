@@ -4,18 +4,26 @@ GameHub is a desktop application built for managing retail gaming store operatio
 
 This project was developed as a 4th-year computer science school project by a team of two [cite: The user attends the Lyceum of Alabang within the College of Computer Studies., The user collaborates with fellow students on academic projects, specifically identifying himself as part of a group in a Computer Science section.], with the database architect taking charge of the relational data layer, connection binding, and backend query structures, while collaborating closely on the user interface forms.
 
-```text
-✨ Features
-🔑 User authentication (secure login system for cashiers and administrators)
-📊 Interactive dashboard with high-level sales trends and real-time inventory notifications
-📋 Critical low-stock checklist panel to monitor inventory levels instantly
-📦 Complete Inventory Management (CRUD operations for games, consoles, and accessories)
-🔍 Smart filtering and advanced search utilities built directly into the data grids
-🛒 Fluid Point of Sale (POS) checkout interface with automated subtotaling
-🏷️ Categorization tools to sort inventory by platform, genre, or item type
-🎨 Custom modern dark-themed user interface utilizing optimized graphics and icons
 
-```
+-✨ Features
+
+-🔑 User authentication (secure login system for cashiers and administrators)
+
+-📊 Interactive dashboard with high-level sales trends and real-time inventory notifications
+
+-📋 Critical low-stock checklist panel to monitor inventory levels instantly
+
+-📦 Complete Inventory Management (CRUD operations for games, consoles, and accessories)
+
+-🔍 Smart filtering and advanced search utilities built directly into the data grids
+
+-🛒 Fluid Point of Sale (POS) checkout interface with automated subtotaling
+
+-🏷️ Categorization tools to sort inventory by platform, genre, or item type
+
+-🎨 Custom modern dark-themed user interface utilizing optimized graphics and icons
+
+
 🛠️ Tech Stack
 
 | Layer | Technologies |
