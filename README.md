@@ -99,12 +99,11 @@ GameStorePOSandInventorySystemWorkingNew/
 
 ```
 
-👥 Team & Contributions
+Contributions
 
-* **Johnrick** – Database Architect & Backend Developer
+* **Me** – Database Architect & Backend Developer
 Designed the relational MS Access database schema, established the OLEDB connection layers, wrote SQL CRUD queries, handled dataset data-binding, and co-developed the core UI forms.
-* **Mindoro** – UI/UX Designer & Resource Lead
-Crafted the application's layout theme, designed custom graphic assets, structured the user control placement, and co-developed the front-end WinForms wrappers.
+
 
 ⚠️ Important Notes
 
