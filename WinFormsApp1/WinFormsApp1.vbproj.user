@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CapsuleButton.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="frmAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCashier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPayments.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmProduct.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmReceipt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSuppliers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmVoid.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
